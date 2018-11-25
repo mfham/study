@@ -1,5 +1,7 @@
 # AWS利用の際、読むもの・やること
 
+* [AWS クラウドサービス活用資料集](https://aws.amazon.com/jp/aws-jp-introduction/)
+
 ## 参考文献
 * [[AWS] AWS IAM ベストプラクティスのご紹介 – AWSアカウントの不正利用を防ぐために](https://aws.amazon.com/jp/blogs/news/aws-iam-best-practice/)
 * [[AWS] IAM のベストプラクティス](https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/best-practices.html)
@@ -11,6 +13,8 @@
   * https://www.slideshare.net/AmazonWebServices/gpstec310iam-best-practices-and-becoming-an-iam-ninja
 * https://www.youtube.com/watch?v=SGntDzEn30s
   * https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-iam-best-practices-to-live-by-sac317
+
+
 
 ## やること
 
